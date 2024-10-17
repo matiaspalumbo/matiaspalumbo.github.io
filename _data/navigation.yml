@@ -11,11 +11,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
+  - title: "Presentations & More"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
