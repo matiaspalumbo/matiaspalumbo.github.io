@@ -14,11 +14,12 @@ The Mathematics degree I completed covers a wide variety of topics, including re
 I have pursued a number of extracurricular activities throughout my studies. Some examples are:
 - I authored a monograph on transcendental number theory that obtained the first prize in the 2022 National Monograph Contest organized by the Mathematical Union of Argentina.
 - I developed a custom Python module within Manim (a Python mathematical animation library) to render and visualize dynamical systems.
-- I organized and taught a LaTeX workshop aimed at both undergraduate and graduate Mathematics, Computer Science and Physics students.
+- I participated in the 10th Heidelberg Laureate Forum, a selective networking conference where young researchers can interact with laureates from awards like the Abel Prize and the Fields Medal.
+<!-- - I organized and taught a LaTeX workshop aimed at both undergraduate and graduate Mathematics, Computer Science and Physics students. -->
 
 I have a great deal of ambition, and being part of the world of Mathematics is something that fulfills me to a great extent. I am thrilled about the prospect of pursuing a PhD and making meaningful contributions to science.
 
-Outside of the classroom, I enjoy taking part in all kinds of sports (voleyball in particular!), playing the guitar, singing and spending time with my friends and family.
+Outside of the classroom, I enjoy taking part in all kinds of sports (volleyball in particular!), going to the cinema, playing the guitar and spending time with my friends and family.
  <!-- I recently started hiking, and I foresee a lot of it in the future -->
 
 <!-- I am a deeply inquisitive person with a profound passion from mathematics, and this has been evident throughout my academic journey, particularly in the extracurricular activities I pursued. -->

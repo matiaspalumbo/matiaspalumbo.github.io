@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 Five-year Integrated Master's Degree in Mathematics (2019-2024)
 *National University of Rosario*
 * Finished degree with an academic average of 9.73 out of 10 (equivalent to 4.0 GPA).
 * Master's thesis: “The Dynamics of Linear Operators in the Hardy Space of Dirichlet Series”. Topics covered include functional analysis, complex analysis and topological dynamics.
 
-Work Experience
-======
+## Work Experience
 * Sep. 2023 - Present: Research Assistant at National University of Rosario
   * Participant in the CIFASIS-CONICET (National Scientific and Technical Research Council) research project titled “Dynamics of Linear Operators and Operator Semigroups”.
 
@@ -34,8 +32,7 @@ Work Experience
   * Asociación Conciencia is an NGO aimed at heightening high school students' social awareness and civic participation through projects such as Mock UN.
   * Member of the General Coordination team in charge of event logistics. Member of the administrative committee within the General Coordination team in 2020.
 
-Certifications
-======
+## Certifications
 * Dec. 2023: TOEFL iBT English Exam - C1 Level (score 113/120)
 * Nov. 2018: Cambridge Certificate of Proficiency in English (CPE) - C2 Level (Grade A)
 
@@ -44,14 +41,12 @@ Certifications
 *(In progress)* **Hypercyclic operators on Hardy spaces of Dirichlet series** (2024). Cardeccia R., Muro S., Palumbo M.
 Preliminary version available in my personal page. -->
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Technical Skills
-======
+## Technical Skills
 * Advanced knowledge of the Python programming language.
   * Eperience using most common scientific libraries (numpy, matplotlib, scikit-learn) as well as the Manim library (for rendering programmatic mathematical animations) and the Django framework.
   * Experience working with large-scale codebases and knowledge of common software engineering design patterns.
@@ -59,8 +54,7 @@ Technical Skills
 * Advanced knowledge of the LaTeX typesetting language.
 * Experience working with Octave, Maxima and SageMath.
 
-Awards & Scholarships
-======
+## Awards & Scholarships
 * Sep. 2023 - Aug. 2024: EVC-CIN Scholarship awarded by the National Interuniversity Council of Argentina
   * Research scholarship for participation in the “Dynamics of Linear Operators and Operator Semigroups” CIFASIS-CONICET research project.
 
@@ -70,14 +64,12 @@ Awards & Scholarships
 * Jan. 2022 - Mar. 2022: Friends of Fulbright Scholarship awarded by the Fulbright Association
   * Seven-week academic exchange program in the University of Arkansas, United States.
 
-Presentations & Workshops Given
-======
+## Presentations & Workshops Given
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Attended Forums & Conferences
-======
+## Attended Forums & Conferences
 * Sep. 2024: Annual Conference of the Mathematical Union of Argentina (Catamarca, Argentina)
 * Jul. 2024: Escuela de Ciencias Informáticas (Buenos Aires, Argentina)
   * Two 15-hour courses taken: Modeling and Analysis of Complex Systems and Large Language Models.
