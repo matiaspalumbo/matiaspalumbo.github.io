@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Matías A. Palumbo"
 author_profile: true
 redirect_from: 
   - /about/
