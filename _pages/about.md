@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a deeply inquisitive person with a sincere and profound passion for mathematics. In July 2024, I graduated from the five-year Integrated Master's Degree in Mathematics offered by the National University of Rosario. My master's thesis concerned the dynamics of linear operators in Hardy spaces of Dirichlet series. I am currently exploring PhD opportunities while continuing the research done for said thesis with Santiago Muro (National University of Rosario) and Rodrigo Cardeccia (Balseiro Institute) within a CIFASIS-CONICET project. Our current work focuses on the dynamics of adjoint multiplication operators in spaces of both Dirichlet series and holomorphic functions in high dimensions.
+I am a deeply inquisitive person with a sincere and profound passion for mathematics. In July 2024, I graduated from the five-year Integrated Master's Degree in Mathematics offered by the National University of Rosario. My master's thesis concerned the dynamics of linear operators in Hardy spaces of Dirichlet series.
+
+I am currently exploring PhD opportunities while continuing the research done for my thesis with Santiago Muro (National University of Rosario) and Rodrigo Cardeccia (Balseiro Institute) within a CIFASIS-CONICET project. Our current work focuses on the dynamics of adjoint multiplication operators in spaces of both Dirichlet series and holomorphic functions in high dimensions.
 
 The Mathematics degree I completed covers a wide variety of topics, including real and complex analysis, linear algebra, differential equations, functional analysis, algebraic structures, general topology, smooth manifolds, probability theory and graph theory. I have also completed college courses on Python and C programming, data structures and algorithms, machine learning and fractional differential equations.
 
