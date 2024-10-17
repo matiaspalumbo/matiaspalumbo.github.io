@@ -15,6 +15,8 @@ Five-year Integrated Master's Degree in Mathematics (2019-2024)
 * Finished degree with an academic average of 9.73 out of 10 (equivalent to 4.0 GPA).
 * Master's thesis: “The Dynamics of Linear Operators in the Hardy Space of Dirichlet Series”. Topics covered include functional analysis, complex analysis and topological dynamics.
 
+[View Master's Thesis](https://matiaspalumbo.github.io/files/masters_thesis.pdf)
+
 ## Work Experience
 * Sep. 2023 - Present: Research Assistant at National University of Rosario
   * Participant in the CIFASIS-CONICET (National Scientific and Technical Research Council) research project titled “Dynamics of Linear Operators and Operator Semigroups”.
