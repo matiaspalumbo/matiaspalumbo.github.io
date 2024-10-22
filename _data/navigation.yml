@@ -11,6 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations & More"
-    url: /talks/
+  - title: "Courses"
+    url: /courses/
 
+  - title: "Presentations & Workshops"
+    url: /talks/

@@ -1,0 +1,28 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="floaty">
+      {% if post.date %}
+        <span class="page__meta page-meta-compressed"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%Y' }}</span>
+      {% endif %}
+      <!-- {% if post.location %}
+        <span class="archive__item-excerpt" itemprop="description">{{post.location}}</span>
+      {% endif %} -->
+    </div>
+    <h3 class="archive__item-title without-link" itemprop="headline">{{ title }}</h3>
+    {% if post.excerpt %}<span class="archive__item-excerpt smaller-text" itemprop="description">{{ post.excerpt | markdownify }}</span>{% endif %}
+  </article>
+</div>

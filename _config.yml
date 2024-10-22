@@ -217,7 +217,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  courses:
+    output: true
+    permalink: /:collection/:path/
+  extracurricular-courses:
+    output: true
+    permalink: /courses/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -265,7 +270,21 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # courses
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: course
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: extracurricular-courses
+    values:
+      layout: course
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

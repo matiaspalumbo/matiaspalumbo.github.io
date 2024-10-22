@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Taken courses"
+permalink: /courses/
+author_profile: true
+---
+
+<h2>College courses</h2>
+ 
+{% for post in site.courses reversed %}
+  {% include archive-single-course.html %}
+{% endfor %}
+
+
+<h2>Extracurricular courses</h2>
+ 
+{% for post in site.extracurricular-courses reversed %}
+  {% include archive-single-course.html %}
+{% endfor %}

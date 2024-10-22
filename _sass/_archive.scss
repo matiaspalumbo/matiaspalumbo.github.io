@@ -243,3 +243,20 @@
     }
   }
 }
+
+
+/*
+   Mati extras
+   ========================================================================== */
+
+.without-link {
+  text-decoration: none !important;
+}
+
+.floaty {
+  float: right;
+}
+
+.smaller-text {
+  font-size: $type-size-small-text;
+}
