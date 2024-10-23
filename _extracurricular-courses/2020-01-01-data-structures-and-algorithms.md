@@ -8,4 +8,4 @@ location: "National University of Rosario"
 
 ---
 
-*(120-hour course)* Introduction to imperative language paradigms. Introduction to algorithmics: definition, classification, and order of an algorithm, algorithmic instructions, expressions. Complexity of algorithms: complexity bounds, asymptotic measurements, recurrence equations. C language programming. Sorting methods. Search techniques in dynamic structures.
+*(120-hour CS course)* Introduction to imperative language paradigms. Introduction to algorithmics: definition, classification, and order of an algorithm, algorithmic instructions, expressions. Complexity of algorithms: complexity bounds, asymptotic measurements, recurrence equations. C language programming. Sorting methods. Search techniques in dynamic structures.

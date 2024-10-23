@@ -8,4 +8,4 @@ location: "National University of Rosario"
 
 ---
 
-*(120-hour course)* Paradigms of imperative and functional programming. Syntax and semantics of languages. Type system. Evaluation. Formal specifications of programs. Program correctness. Definitions and structural tests. Formal test structures: structural induction. Algorithm verification. Elementary programming techniques: modularization and generalization by abstraction. Program derivation. Hoare logic.
+*(120-hour CS course)* Paradigms of imperative and functional programming. Syntax and semantics of languages. Type system. Evaluation. Formal specifications of programs. Program correctness. Definitions and structural tests. Formal test structures: structural induction. Algorithm verification. Elementary programming techniques: modularization and generalization by abstraction. Program derivation. Hoare logic.
