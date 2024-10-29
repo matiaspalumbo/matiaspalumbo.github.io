@@ -12,8 +12,7 @@ redirect_from:
 > [View PDF Version](https://matiaspalumbo.github.io/files/cv.pdf)
 
 ## Education
-Five-year integrated Bachelor's Degree in Mathematics (2019-2024)
-*National University of Rosario*
+Five-year integrated Bachelor's Degree in Mathematics *(Licenciatura en Matemática)* (2019-2024 – National University of Rosario)
 * Finished degree with an academic average of 9.73 out of 10 (equivalent to 4.0 GPA).
 * Degree thesis: “The Dynamics of Linear Operators in the Hardy Space of Dirichlet Series”. Topics covered include functional analysis, complex analysis and topological dynamics.
 
