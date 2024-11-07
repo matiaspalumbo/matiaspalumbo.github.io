@@ -17,6 +17,7 @@ Five-year integrated Bachelor's Degree in Mathematics *(Licenciatura en Matemát
 * Degree thesis: “The Dynamics of Linear Operators in the Hardy Space of Dirichlet Series”. Topics covered include functional analysis, complex analysis and topological dynamics.
 
 > [View Degree Thesis](https://matiaspalumbo.github.io/files/masters_thesis.pdf)
+> [View Thesis Summary](https://matiaspalumbo.github.io/files/thesis_summary.pdf)
 
 ## Work Experience
 * Sep. 2023 - Present: Research Assistant at National University of Rosario
