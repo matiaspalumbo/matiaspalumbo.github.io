@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a deeply inquisitive person with a sincere and profound passion for mathematics. In July 2024, I graduated from the five-year integrated Bachelor's Degree in Mathematics, a Master's-equivalent program offered by the National University of Rosario. My degree thesis concerned the dynamics of linear operators in Hardy spaces of Dirichlet series.
+In July 2024, I graduated from the five-year integrated Bachelor's Degree in Mathematics, a Master's-equivalent program offered by the National University of Rosario. My degree thesis concerned the dynamics of linear operators in Hardy spaces of Dirichlet series.
 
-I am currently exploring PhD opportunities while continuing the research done for my thesis with Santiago Muro (National University of Rosario) and Rodrigo Cardeccia (Balseiro Institute) within a [CIFASIS-CONICET](https://www.cifasis-conicet.gov.ar/en/) project. Our current work focuses on the dynamics of adjoint multiplication operators in spaces of both Dirichlet series and holomorphic functions in high dimensions.
+I am currently exploring PhD opportunities while continuing the research done for my thesis with Santiago Muro (National University of Rosario) and Rodrigo Cardeccia (Balseiro Institute) within a [CIFASIS-CONICET](https://www.cifasis-conicet.gov.ar/en/) project. Our current work focuses on the dynamics of multiplicative Toeplitz operators and adjoint multiplication operators in Hardy spaces of both Dirichlet series and holomorphic functions in high dimensions. A large part of our work is done in the setting of dual Hardy spaces, which are not yet well understood, so we are also seeking useful characterizations of the elements of these spaces in terms of holomorphic functions and formal series.
 
 The Mathematics degree I completed covers a wide variety of topics, including real and complex analysis, linear algebra, differential equations, functional analysis, algebraic structures, general topology, smooth manifolds, probability theory and graph theory. I have also completed college courses on Python and C programming, data structures and algorithms, machine learning and fractional differential equations.
 
