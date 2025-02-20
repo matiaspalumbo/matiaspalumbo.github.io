@@ -75,6 +75,8 @@ Preliminary version available in my personal page. -->
   {% endfor %}</ul>
   
 ## Attended Forums & Conferences
+* Jan. 2025 - Feb. 2025: FGV EMAp Applied Mathematics Summer School (Rio de Janeiro, Brazil)
+  * Courses taken: *Introduction to Optimal Control* (8 hours), *Introduction to Multiobjective Optimization* (10 hours), *The Machine Learning Behind Recommendation Systems* (12 hours), *Computational Methods for Optimization in Julia* (12 hours) and *Dynamics in Complex Networks with Applications to Epidemiology* (18 hours).
 * Sep. 2024: Annual Conference of the Mathematical Union of Argentina (Catamarca, Argentina)
 * Jul. 2024: Escuela de Ciencias Informáticas (Buenos Aires, Argentina)
   * Two 15-hour courses taken: Modeling and Analysis of Complex Systems and Large Language Models.
