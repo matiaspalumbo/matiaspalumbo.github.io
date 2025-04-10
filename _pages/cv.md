@@ -21,10 +21,13 @@ Five-year integrated Bachelor's Degree in Mathematics *(Licenciatura en Matemát
 > [View Thesis Summary](https://matiaspalumbo.github.io/files/thesis_summary.pdf)
 
 ## Work Experience
+* Feb. 2025 – Present: Assistant Professor at Catholic University of Argentina
+  * Two classes taught as part of the position: Quantitative Methods (probability and statistics applied to economics and finance) and Databases Theory.
+
 * Sep. 2023 - Present: Research Assistant at National University of Rosario
   * Participant in the CIFASIS-CONICET (National Scientific and Technical Research Council) research project titled “Dynamics of Linear Operators and Operator Semigroups”.
 
-* Mar. 2022 – Present: Junior Engineer at Paddle
+* Mar. 2022 – Dec. 2024: Junior Engineer at Paddle
   * Support Engineer in charge of troubleshooting customer issues and fixing bugs within the company's codebase.
 
 * Mar. 2023 – Aug. 2023: Teaching Assistant at National University of Rosario
