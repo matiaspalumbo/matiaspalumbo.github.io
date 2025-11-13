@@ -20,8 +20,8 @@ redirect_from:
 * Research focus: Mathematical modeling of gene regulatory networks, particularly of the transcriptional mechanisms that underlie cell fate decisions during neural crest development.
 
 Five-year integrated Bachelor's Degree in Mathematics *(Licenciatura en Matemática)* (2019-2024 – National University of Rosario)
-* *Graduated with distinction (academic average of 9.73 out of 10).
-* *Final thesis: ``The Dynamics of Linear Operators in the Hardy Space of Dirichlet Series''. Topics covered include functional analysis, complex analysis and topological dynamics.
+* Graduated with distinction (academic average of 9.73 out of 10).
+* Final thesis: ``The Dynamics of Linear Operators in the Hardy Space of Dirichlet Series''. Topics covered include functional analysis, complex analysis and topological dynamics.
 
 > [View Final Thesis](https://matiaspalumbo.github.io/files/masters_thesis.pdf)  //  [View Thesis Summary](https://matiaspalumbo.github.io/files/thesis_summary.pdf)
 
